@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 # Source code for summation of two numbers
 
-def summation(data):
-    return sum(data)
+def summation(x,y):
+    return x+y
